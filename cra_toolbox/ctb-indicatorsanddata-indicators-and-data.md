@@ -2,18 +2,6 @@
 
 Climate Risk Assessments (CRA) rely on a **transparent chain from datasets to indicators** and decision-relevant outputs. Within the ARCADIA Assessment Toolkit, indicators are used to operationalise the Hazard–Exposure–Vulnerability logic and to **compare a baseline (business-as-usual) scenario against an NbS/BGI scenario**. Tutorials provide the detailed, lab-specific data inputs and processing steps; the overview below focuses on indicator and data families that are replicable across regions, while keeping uncertainty and data limitations explicit.
 
-## CLIMAAX CRA Handbook (interoperable reference)
-
-For general guidance on dataset and indicators selection, workflow design and uncertainty handling, the CLIMAAX CRA Handbook provides a complementary, interoperable reference that aligns with WP8’s CRA framing:
-
-• **[Datasets](https://handbook.climaax.eu/CRA_steps/analysis/datasets.html) :** Explore the requirements for combining hazard, exposure, and vulnerability data under current and future conditions.
-
-• **[Hazard Data](https://handbook.climaax.eu/CRA_steps/analysis/hazard_data.html) :** Review technical specifications for understanding the intensity, frequency, and spatial distribution of climate risks.
-
-• **[Exposure](https://handbook.climaax.eu/CRA_steps/analysis/exposure_data.html) and** **[Vulnerability](https://handbook.climaax.eu/CRA_steps/analysis/vulnerability_data.html) :** Access methodologies for characterizing assets, ecosystems, and populations prone to impact.
-
-• **[Uncertainties](https://handbook.climaax.eu/CRA_steps/analysis/uncertainties.html) :** Learn how to address and communicate uncertainties inherent in exposure and vulnerability datasets.
-
 ## Indicators
 
 Across the tutorials, indicators are grouped into (i) risk and vulnerability indicators, capturing the hazard signal and the spatial distribution of exposed and vulnerable receptors, and (ii) NbS/BGI performance indicators, capturing the change in risk drivers and impacts between baseline and NbS/BGI scenarios.
@@ -40,7 +28,7 @@ Performance indicators describe the effect of measures along the risk chain (haz
 | Water-quality regulation                | Nutrient and pollutant transport proxies linked to runoff processes and mitigation measures.       | N/P load proxies; sediment-related proxies; kg, mg/L (where applicable)         | Flooding; Drought; Other perils             |
 | Cooling and comfort co-benefits         | Change in thermal exposure due to greening/shading measures.                                       | Δ temperature / comfort metric; °C                                              | Heat waves                                  |
 
-Table - indicator families used across the CRA tutorials (high-level overview).
+Table 1 - indicator families used across the CRA tutorials (high-level overview).
 
 ## Data
 
@@ -57,6 +45,6 @@ Tutorials combine local datasets with a limited set of European open-data source
 | Protected areas / ecological context            | Context layers for BGI/NbS planning and screening constraints/opportunities.        | [<span class="underline">Natura 2000 (EEA)</span>](https://www.eea.europa.eu/data-and-maps/data/natura-2000)                                                                                                                                                                                                                                                                                                                                                                                             |
 | Socio-economic exposure / vulnerability proxies | Context indicators for exposed sectors, demographics or land management patterns.   | [<span class="underline">Eurostat GISCO</span>](https://ec.europa.eu/eurostat/web/gisco)                                                                                                                                                                                                                                                                                                                                                                                                                 |
 
-Table - European open-data sources referenced in the CRA tutorials (by data category).
+Table 2 - European open-data sources referenced in the CRA tutorials (by data category).
 
 The table above provides **a first, intentionally compact synthesis** of the European datasets referenced in the current tutorials. It is not meant to replace the tutorial-specific data documentation: as the Toolkit evolves, **a more structured repository and metadata scheme** (foreseen in follow-up activities) will enable more systematic referencing, traceability and reuse of datasets across regions.
